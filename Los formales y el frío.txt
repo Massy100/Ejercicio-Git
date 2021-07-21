@@ -37,3 +37,6 @@ una hora apenas de biografía y nostalgias
 hasta que al fin sobrevino un silencio
 como se sabe en estos casos es bravo
 decir algo que realmente no sobre
+
+
+Hola! Esta es la edicion que vamos a agregar desde GitHub.
