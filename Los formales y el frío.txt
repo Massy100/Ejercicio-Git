@@ -40,3 +40,5 @@ decir algo que realmente no sobre
 
 
 Hola! Esta es la edicion que vamos a agregar desde GitHub.
+
+Ahora vamos a generar un conflicto en el repositorio :)
